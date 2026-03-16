@@ -4,6 +4,7 @@ Adaptable Software Developer and Computer Science Thesis Student with 4 years of
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-toledo-2b929b25b) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/richardotoledo) 
 
 ## 🧰 Tech Stack (by Category)
 
